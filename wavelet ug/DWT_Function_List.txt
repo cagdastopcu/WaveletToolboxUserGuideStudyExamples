@@ -1,0 +1,20 @@
+% wavelet user guide version 2
+dwt single level decomposition
+wavedec decomposition
+wmaxlev maximum wavelet decomposition level
+
+idwt single-level reconstruction
+waverec full reconstruction
+wrcoef selective reconstruction
+upcoef single reconstruction
+
+decoef exraction of detail coefficients
+appcoef extraction of approximation coefficients
+upwlev recomposition of decomposition structure
+
+ddencmp provide default values for de-noising and compression
+wbmpen penalized threshold for wavelet 1-D or 2-D de-noising
+wdcbm thresholds for wavelet 1-D using Birge-Massart strategy
+wdencmp wavelet de-noising and compression
+wden automatic wavelet de-noising
+wthrmngr threshold settings manager
